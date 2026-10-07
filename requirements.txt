@@ -10,4 +10,3 @@ sentence-transformers==6.1.0
 fastapi
 uvicorn
 python-dotenv
-python==3.12.10
